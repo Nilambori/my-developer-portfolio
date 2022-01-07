@@ -16,7 +16,7 @@ h1 span{
     text-decoration: none;
     background: linear-gradient(lightsalmon, palegoldenrod);
     padding: 10px 40px;
-    color: rgb(238, 238, 238);
+    color: grey;
     font-weight: 900;
 }
 h4{
