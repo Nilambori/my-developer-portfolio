@@ -19,14 +19,15 @@ h1 span{
     color: rgb(238, 238, 238);
     font-weight: 900;
 }
-h3 {
+h4{
     margin-top: 50px;
     font-size: 15px;
     color: gray;
 }
 .mission-part{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
+    margin-left: 50px;
 }
 .half-width{
     width: 50%;
@@ -57,4 +58,11 @@ h3 {
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: bottom right;
+}
+h2{
+    font-size: 38px;
+    text-align: center;
+}
+h2 span{
+    color: lightsalmon;
 }
