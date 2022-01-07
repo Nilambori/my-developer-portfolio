@@ -1,0 +1,60 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 40px;
+}
+h1 span{
+    color: lightsalmon;
+}
+.border-line{
+    border-left: 4px solid;
+    border-color: brown;
+    padding-left: 20px;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(lightsalmon, palegoldenrod);
+    padding: 10px 40px;
+    color: rgb(238, 238, 238);
+    font-weight: 900;
+}
+h3 {
+    margin-top: 50px;
+    font-size: 15px;
+    color: gray;
+}
+.mission-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 100px;
+}
+.mis-vis-go{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color: palegoldenrod;
+}
+.mis-vis-go img{
+    width: 50%;
+}
+#si-ban{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
+}
+#ban-side{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom right;
+}
