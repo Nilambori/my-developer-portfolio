@@ -66,3 +66,8 @@ h2{
 h2 span{
     color: lightsalmon;
 }
+footer{
+    text-align: center;
+    background-color: rgba(1, 4, 12, 0.342);
+    color: ivory;
+}
